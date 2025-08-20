@@ -2,7 +2,7 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The goal is help a fictional bank called Galaxy Bank and their marketing department better target their clients that have deposit account with an offer for a personal loan.
 
 ## Description
 TODO - How have you solved the problem?
