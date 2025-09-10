@@ -5,7 +5,7 @@
 The goal is to help a fictional bank called Galaxy Bank and their marketing department better target their clients that have deposit account with an offer for a personal loan.
 
 ## Description
-I solved the problem by implementing 5 machine learning models. I used the pyspark and its MLLib to do the task. My personal goal was to showcase my ability work with pyspark. I implemented data loading, EDA, model traing, model analysis, and hyperparameter optimization. I did not clean the data because it was already clean.
+I solved the problem by implementing 6 machine learning models. I used the pyspark and its MLLib to do the task. My personal goal was to showcase my ability work with pyspark. I implemented data loading, EDA, model traing, model analysis, and hyperparameter optimization. I did not clean the data because it was already clean.
 
 ## Installation
 You will need to do `pip install optuna seaborn pyspark`.
